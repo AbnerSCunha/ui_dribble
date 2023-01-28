@@ -3,4 +3,5 @@ Foi usado um exemplo de UI de uma calculadora de IMC (Índice de Massa Corporal)
 
 Link: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
 
+Pagina de Input:
 ![image](https://user-images.githubusercontent.com/60243480/212914651-db1c2436-c670-4734-bdd2-a59cb408bb8f.png)
